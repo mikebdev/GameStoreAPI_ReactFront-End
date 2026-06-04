@@ -1,0 +1,1 @@
+Minimal API using .NET CORE and React front-end, more to do with this; just the start.
