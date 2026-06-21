@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ib8gNqoq9s0=",
+  "dgSpecHash": "MlpbbxQ/FOA=",
   "success": true,
   "projectFilePath": "E:\\Code_CP9\\DotNet\\GameStoreAPI_ReactFrontend\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
@@ -36,5 +36,18 @@
     "C:\\Users\\mbelcher\\.nuget\\packages\\system.composition.runtime\\9.0.0\\system.composition.runtime.9.0.0.nupkg.sha512",
     "C:\\Users\\mbelcher\\.nuget\\packages\\system.composition.typedparts\\9.0.0\\system.composition.typedparts.9.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
+      "projectPath": "E:\\Code_CP9\\DotNet\\GameStoreAPI_ReactFrontend\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\Code_CP9\\DotNet\\GameStoreAPI_ReactFrontend\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
